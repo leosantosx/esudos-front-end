@@ -1,0 +1,10 @@
+footer{
+    background-image: url(../img/bg.jpg);
+    text-align: center;
+    padding: 40px 0;
+}
+
+footer p{
+    color: #fff;
+    margin-top: 30px;
+}

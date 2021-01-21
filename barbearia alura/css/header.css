@@ -1,0 +1,36 @@
+header{
+    padding: 20px;
+    background-color: #bbb;
+}
+
+header img{
+    margin-left: 10%;
+}
+
+nav{
+    list-style: none;
+    position: absolute;
+    top: 120px;
+    right: 20%;
+}
+
+nav li{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #4d4d4d;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+nav a:hover{
+    color: #fd7045;
+}
+
+main{
+    margin: 30px 0;
+}

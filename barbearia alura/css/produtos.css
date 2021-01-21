@@ -1,0 +1,38 @@
+body{
+    font-family: sans-serif;
+}
+
+main ul{
+    text-align: center;
+}
+main li{
+    display: inline-block;
+    border: 1px solid #4d4d4d;
+    border-radius: 10px;
+    text-align: center;
+    margin: 0 10px;
+    width: 23%;
+    padding: 30px 30px;
+    vertical-align: top;
+    box-sizing: border-box;
+}
+
+main ul h2{
+    font-weight: bold;
+    color: #2a4057;
+    font-size: 20px;
+}
+
+main ul p{
+    font-size: 18px;
+    color: #4d4d4d
+}
+
+.preco-produto{
+    margin: 10px;
+    font-size: 22px;
+    font-weight: bold;
+}
+main li:hover{
+    border: 1px solid #fd7045;
+}

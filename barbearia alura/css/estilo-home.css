@@ -1,0 +1,76 @@
+header{
+    padding: 0px;
+    color: #4d4d4d;
+    background-color: #fff;
+}
+
+header .titulo-barbearia{
+    margin-left: 80px;
+    margin-top: 18px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+header nav{
+    position: relative;
+    top: -20px;
+    right: -70%;
+}
+
+.sobre {
+    background-color: #eceef0;
+    padding: 30px;
+}
+
+.banner-sobre, .banner-beneficios{
+    width: 100%;
+    margin: 0;
+}
+
+.titulo-sobre, .titulo-beneficios{
+    color: #1f344b;
+    padding: 20px;
+}
+
+.sobre p{
+    padding: 10px;
+}
+.titulo-sobre, .titulo-beneficios{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+p, .titulo-sobre, .titulo-beneficios{
+    text-align: center;
+}
+
+strong{
+    color: #2b539e;
+}
+
+.missao{
+    font-size: 20px;
+}
+
+.beneficio{
+    display: inline-block;
+    padding: 20px;
+}
+
+.beneficio ul{
+    list-style: none;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin: 5% 5% 0 10% ;
+}
+
+.beneficio .banner-beneficio{
+    width: 50%;
+}
+
+.beneficio ul li{
+    padding: 10px;
+    color: #2b539e;
+    font-size: 18px;
+}

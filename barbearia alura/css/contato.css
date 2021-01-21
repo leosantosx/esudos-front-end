@@ -1,0 +1,68 @@
+main{
+    width: 940px;
+    margin: 0 100px; 
+    padding: 30px;
+}
+
+label{
+    font-size: 16pt;
+}
+
+input, textarea{
+    border: #3a6fac 2px solid;
+    outline: none;
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin: 10px 0 20px 0;
+    width: 90%;
+    box-sizing: border-box;
+}
+
+textarea{
+    height: 200px;
+}
+
+input[type="submit"]{
+    background-color: #3a6fac;
+    border: 0;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16pt;
+}
+
+input[type="submit"]:hover{
+    background-color: #244974;
+}
+
+input::placeholder, textarea::placeholder{
+    font-size: 12pt;
+}
+
+form p{
+    margin:20px 0 10px 0;
+    font-size: 16pt;
+}
+
+.radio-contato label{
+    display: block;
+}
+
+.radio-contato input[type="radio"],
+input[type="checkbox"]{
+    display: inline-block;
+    width: 20px;
+    margin: 10px;
+}
+
+.checkbox-contato{
+    margin: 20px 0;
+}
+
+form select{
+    padding: 10px 30px 10px 10px;
+    font-size: 13pt;
+}
+
+
+

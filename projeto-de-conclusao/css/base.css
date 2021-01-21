@@ -1,0 +1,19 @@
+body{
+    font-family: 'Comfortaa', cursive;
+}
+
+.container{
+    width: 96%;
+    margin: 0 auto;
+}   
+
+.button{
+    display: inline-block;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    padding: 25px 50px;
+    background-color: #48a3a6;
+    font-size: .8em;
+    text-transform: uppercase;
+}
